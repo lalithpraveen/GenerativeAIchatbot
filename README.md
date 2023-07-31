@@ -42,9 +42,7 @@ You can interact with the ChatBot through the [Live Demo](https://praveenai.ccbp
 
 ## About the Developer
 
-![Praveen Yarlagadda](https://github.com/lalithpraveen)
-
-**Praveen Yarlagadda**
+[Praveen Yarlagadda](https://github.com/lalithpraveen)
 - Age: 26
 - Profession: Full Stack Developer at Wipro
 
